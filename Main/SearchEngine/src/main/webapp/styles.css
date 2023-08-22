@@ -1,0 +1,25 @@
+button{
+background-color: #9966FF;
+color:white;
+border: 1px;
+border-radius:4px;
+padding: 8px 16px;
+margin: 4px 2px;
+cursor: pointer;
+}
+input[type=text]{
+width:30%;
+border: 2px solid black;
+border-radius: 10px;
+padding:8px 16px;
+}
+body{
+text-align: center;
+background-color:#E6E6FA;
+}
+.resultTable{
+  display:inline-block;
+}
+h1{
+color: #B22222
+}
