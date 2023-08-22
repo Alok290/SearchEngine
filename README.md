@@ -14,9 +14,10 @@ Keyword Highlighting: Highlights matched keywords in the search results to make 
 
 Getting Started
 Prerequisites
-Java Development Kit (JDK) Link to Download
+
+Java Development Kit (JDK) 
 IDE (Eclipse, IntelliJ IDEA, etc.) for Java development
-mysql connector/J [Link to Download](Link to Download)
+mysql connector
 Apache Tomcat 9 version Link to Download
 Usage
 Launch the search engine application.
